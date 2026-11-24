@@ -1,0 +1,336 @@
+{
+  "phrases": [
+    {
+      "id": 1,
+      "chinese": "你好",
+      "italian": "Ciao",
+      "pinyin": "Nǐ hǎo",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/001.mp3",
+        "italian": "./audio/italian/001.mp3"
+      }
+    },
+    {
+      "id": 2,
+      "chinese": "你好吗？",
+      "italian": "Come stai?",
+      "pinyin": "Nǐ hǎo ma?",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/002.mp3",
+        "italian": "./audio/italian/002.mp3"
+      }
+    },
+    {
+      "id": 3,
+      "chinese": "我很好",
+      "italian": "Sto molto bene",
+      "pinyin": "Wǒ hěn hǎo",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/003.mp3",
+        "italian": "./audio/italian/003.mp3"
+      }
+    },
+    {
+      "id": 4,
+      "chinese": "你呢？",
+      "italian": "E tu?",
+      "pinyin": "Nǐ ne?",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/004.mp3",
+        "italian": "./audio/italian/004.mp3"
+      }
+    },
+    {
+      "id": 5,
+      "chinese": "早上好",
+      "italian": "Buongiorno",
+      "pinyin": "Zǎoshang hǎo",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/005.mp3",
+        "italian": "./audio/italian/005.mp3"
+      }
+    },
+    {
+      "id": 6,
+      "chinese": "晚安",
+      "italian": "Buonanotte",
+      "pinyin": "Wǎn'ān",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/006.mp3",
+        "italian": "./audio/italian/006.mp3"
+      }
+    },
+    {
+      "id": 7,
+      "chinese": "再见",
+      "italian": "Arrivederci",
+      "pinyin": "Zàijiàn",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/007.mp3",
+        "italian": "./audio/italian/007.mp3"
+      }
+    },
+    {
+      "id": 8,
+      "chinese": "明天见",
+      "italian": "A domani",
+      "pinyin": "Míngtiān jiàn",
+      "category": "Saluti",
+      "audio": {
+        "chinese": "./audio/chinese/008.mp3",
+        "italian": "./audio/italian/008.mp3"
+      }
+    },
+    {
+      "id": 9,
+      "chinese": "谢谢",
+      "italian": "Grazie",
+      "pinyin": "Xièxie",
+      "category": "Cortesia",
+      "audio": {
+        "chinese": "./audio/chinese/009.mp3",
+        "italian": "./audio/italian/009.mp3"
+      }
+    },
+    {
+      "id": 10,
+      "chinese": "不客气",
+      "italian": "Prego",
+      "pinyin": "Bú kèqi",
+      "category": "Cortesia",
+      "audio": {
+        "chinese": "./audio/chinese/010.mp3",
+        "italian": "./audio/italian/010.mp3"
+      }
+    },
+    {
+      "id": 11,
+      "chinese": "对不起",
+      "italian": "Mi dispiace",
+      "pinyin": "Duìbuqǐ",
+      "category": "Cortesia",
+      "audio": {
+        "chinese": "./audio/chinese/011.mp3",
+        "italian": "./audio/italian/011.mp3"
+      }
+    },
+    {
+      "id": 12,
+      "chinese": "没关系",
+      "italian": "Non fa niente",
+      "pinyin": "Méi guānxi",
+      "category": "Cortesia",
+      "audio": {
+        "chinese": "./audio/chinese/012.mp3",
+        "italian": "./audio/italian/012.mp3"
+      }
+    },
+    {
+      "id": 13,
+      "chinese": "请问",
+      "italian": "Mi scusi, posso chiedere?",
+      "pinyin": "Qǐngwèn",
+      "category": "Cortesia",
+      "audio": {
+        "chinese": "./audio/chinese/013.mp3",
+        "italian": "./audio/italian/013.mp3"
+      }
+    },
+    {
+      "id": 14,
+      "chinese": "你叫什么名字？",
+      "italian": "Come ti chiami?",
+      "pinyin": "Nǐ jiào shénme míngzi?",
+      "category": "Presentazioni",
+      "audio": {
+        "chinese": "./audio/chinese/014.mp3",
+        "italian": "./audio/italian/014.mp3"
+      }
+    },
+    {
+      "id": 15,
+      "chinese": "你是哪国人？",
+      "italian": "Di che nazionalità sei?",
+      "pinyin": "Nǐ shì nǎ guó rén?",
+      "category": "Presentazioni",
+      "audio": {
+        "chinese": "./audio/chinese/015.mp3",
+        "italian": "./audio/italian/015.mp3"
+      }
+    },
+    {
+      "id": 16,
+      "chinese": "我是意大利人",
+      "italian": "Sono italiano",
+      "pinyin": "Wǒ shì Yìdàlì rén",
+      "category": "Presentazioni",
+      "audio": {
+        "chinese": "./audio/chinese/016.mp3",
+        "italian": "./audio/italian/016.mp3"
+      }
+    },
+    {
+      "id": 17,
+      "chinese": "很高兴认识你",
+      "italian": "Piacere di conoscerti",
+      "pinyin": "Hěn gāoxìng rènshi nǐ",
+      "category": "Presentazioni",
+      "audio": {
+        "chinese": "./audio/chinese/017.mp3",
+        "italian": "./audio/italian/017.mp3"
+      }
+    },
+    {
+      "id": 18,
+      "chinese": "你住在哪里？",
+      "italian": "Dove abiti?",
+      "pinyin": "Nǐ zhù zài nǎlǐ?",
+      "category": "Presentazioni",
+      "audio": {
+        "chinese": "./audio/chinese/018.mp3",
+        "italian": "./audio/italian/018.mp3"
+      }
+    },
+    {
+      "id": 19,
+      "chinese": "我住在米兰",
+      "italian": "Abito a Milano",
+      "pinyin": "Wǒ zhù zài Mǐlán",
+      "category": "Presentazioni",
+      "audio": {
+        "chinese": "./audio/chinese/019.mp3",
+        "italian": "./audio/italian/019.mp3"
+      }
+    },
+    {
+      "id": 20,
+      "chinese": "我在学中文",
+      "italian": "Sto imparando il cinese",
+      "pinyin": "Wǒ zài xué Zhōngwén",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/020.mp3",
+        "italian": "./audio/italian/020.mp3"
+      }
+    },
+    {
+      "id": 21,
+      "chinese": "我听不懂",
+      "italian": "Non capisco quello che dici",
+      "pinyin": "Wǒ tīng bu dǒng",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/021.mp3",
+        "italian": "./audio/italian/021.mp3"
+      }
+    },
+    {
+      "id": 22,
+      "chinese": "请说慢一点",
+      "italian": "Parla più lentamente, per favore",
+      "pinyin": "Qǐng shuō màn yìdiǎn",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/022.mp3",
+        "italian": "./audio/italian/022.mp3"
+      }
+    },
+    {
+      "id": 23,
+      "chinese": "请再说一遍",
+      "italian": "Ripeti, per favore",
+      "pinyin": "Qǐng zài shuō yí biàn",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/023.mp3",
+        "italian": "./audio/italian/023.mp3"
+      }
+    },
+    {
+      "id": 24,
+      "chinese": "我不知道",
+      "italian": "Non lo so",
+      "pinyin": "Wǒ bù zhīdào",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/024.mp3",
+        "italian": "./audio/italian/024.mp3"
+      }
+    },
+    {
+      "id": 25,
+      "chinese": "我明白了",
+      "italian": "Ho capito",
+      "pinyin": "Wǒ míngbai le",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/025.mp3",
+        "italian": "./audio/italian/025.mp3"
+      }
+    },
+    {
+      "id": 26,
+      "chinese": "真的吗？",
+      "italian": "Davvero?",
+      "pinyin": "Zhēn de ma?",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/026.mp3",
+        "italian": "./audio/italian/026.mp3"
+      }
+    },
+    {
+      "id": 27,
+      "chinese": "什么意思？",
+      "italian": "Che cosa significa?",
+      "pinyin": "Shénme yìsi?",
+      "category": "Conversazione",
+      "audio": {
+        "chinese": "./audio/chinese/027.mp3",
+        "italian": "./audio/italian/027.mp3"
+      }
+    },
+    {
+      "id": 28,
+      "chinese": "多少钱？",
+      "italian": "Quanto costa?",
+      "pinyin": "Duōshao qián?",
+      "category": "Quotidiano",
+      "audio": {
+        "chinese": "./audio/chinese/028.mp3",
+        "italian": "./audio/italian/028.mp3"
+      }
+    },
+    {
+      "id": 29,
+      "chinese": "这是什么？",
+      "italian": "Che cos'è questo?",
+      "pinyin": "Zhè shì shénme?",
+      "category": "Quotidiano",
+      "audio": {
+        "chinese": "./audio/chinese/029.mp3",
+        "italian": "./audio/italian/029.mp3"
+      }
+    },
+    {
+      "id": 30,
+      "chinese": "我喜欢这个",
+      "italian": "Mi piace questo",
+      "pinyin": "Wǒ xǐhuan zhège",
+      "category": "Quotidiano",
+      "audio": {
+        "chinese": "./audio/chinese/030.mp3",
+        "italian": "./audio/italian/030.mp3"
+      }
+    }
+  ],
+  "total": 30,
+  "missing": []
+}
